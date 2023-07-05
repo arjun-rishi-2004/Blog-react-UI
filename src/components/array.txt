@@ -1,0 +1,82 @@
+const [posts,setPost]=useState([
+    {
+      author:"author1",
+      post:"post1",
+      title:"title1",
+      img:"https://images.pexels.com/photos/267569/pexels-photo-267569.jpeg",
+  
+    },
+    {
+      author:"author2",
+      post:"post2",
+      title:"title2",
+      img:"https://images.pexels.com/photos/965117/pexels-photo-965117.jpeg",
+  
+    }, {
+      author:"author3",
+      post:"post3",
+      title:"title3",
+    
+      img:"https://images.pexels.com/photos/768474/pexels-photo-768474.jpeg",
+  
+  
+    }, {
+      author:"author4",
+      post:"post4",
+      title:"title4",
+      img:"https://images.pexels.com/photos/267389/pexels-photo-267389.jpeg",
+  
+  
+    }, {
+      author:"author4",
+      post:"post4",
+      title:"title4",
+      img:"https://images.pexels.com/photos/267389/pexels-photo-267389.jpeg",
+  
+  
+  
+    }, {
+      author:"author4",
+      post:"post4",
+      title:"title4",
+      img:"https://images.pexels.com/photos/267389/pexels-photo-267389.jpeg",
+  
+   
+    }, {
+      author:"author4",
+      post:"post4",
+      title:"title4",
+      img:"https://images.pexels.com/photos/267389/pexels-photo-267389.jpeg",
+  
+   
+    }, {
+      author:"author4",
+      post:"post4",
+      title:"title4",
+      img:"https://images.pexels.com/photos/267389/pexels-photo-267389.jpeg",
+  
+   
+    }, {
+      author:"author4",
+      post:"post4",
+      title:"title4",
+      img:"https://images.pexels.com/photos/267389/pexels-photo-267389.jpeg",
+  
+   
+    },, {
+      author:"author4",
+      post:"post4",
+      title:"title4",
+      img:"https://images.pexels.com/photos/267389/pexels-photo-267389.jpeg",
+  
+   
+    }, {
+      author:"author4",
+      post:"post4",
+      title:"title4",
+      img:"https://images.pexels.com/photos/267389/pexels-photo-267389.jpeg",
+  
+   
+    }
+  ])
+  
