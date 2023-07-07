@@ -3,7 +3,8 @@
 @tailwind utilities;
 
 body{
-  background-image: url("blogbg.jpg");
+  /* background-image: url("blogbg.jpg"); */
+  background-color: black;
   background-repeat: no-repeat;
   background-size:cover;
   min-height:100vh;
